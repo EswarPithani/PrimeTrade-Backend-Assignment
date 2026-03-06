@@ -65,10 +65,6 @@ backend
 ├── utils
 └── server.js
 
-frontend
-├── src
-├── pages
-
 
 Run backend:
 
@@ -101,4 +97,3 @@ Future Improvements:
 - Microservices architecture
 - Load balancing
 
-Swagger API Docs:
